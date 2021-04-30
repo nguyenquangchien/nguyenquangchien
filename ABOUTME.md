@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nguyenquangchien
+- 👀 I’m interested in Python, Julia, SQL, Lua
+- 🌱 I’m currently learning Elm, Rust
+- 💞️ I’m looking to collaborate on scientific engineering software
+- 📫 Reach me on gmail (my address is the same as my user name).
